@@ -78,13 +78,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 
-# Docker Image
+# 🌐Docker Image
 
 我已经将项目打包为Docker镜像，你可以使用以下命令来获取.
 
 I have packaged the project into a Docker image, which you can obtain using the following command.
 
-## CTFtraining系列
+## ✅CTFtraining 系列
 
 ```bash
 docker pull nudttan91/gzctf_0ctf_2016_unserialize
@@ -119,5 +119,84 @@ docker pull nudttan91/gzctf_wdb_2018_fakebook
 docker pull nudttan91/gzctf_wdb_2018_unfinish
 docker pull nudttan91/gzctf_westerns_2018_shrine
 docker pull nudttan91/gzctf_xdctf_2015_filemanager
+```
+
+## sqli-labs 系列
+
+```bash
+docker pull nudttan91/sqli_labs_gzctf:less01
+docker pull nudttan91/sqli_labs_gzctf:less02
+docker pull nudttan91/sqli_labs_gzctf:less03
+docker pull nudttan91/sqli_labs_gzctf:less04
+docker pull nudttan91/sqli_labs_gzctf:less05
+docker pull nudttan91/sqli_labs_gzctf:less06
+docker pull nudttan91/sqli_labs_gzctf:less07
+docker pull nudttan91/sqli_labs_gzctf:less08
+docker pull nudttan91/sqli_labs_gzctf:less09
+docker pull nudttan91/sqli_labs_gzctf:less10
+docker pull nudttan91/sqli_labs_gzctf:less11
+docker pull nudttan91/sqli_labs_gzctf:less12
+docker pull nudttan91/sqli_labs_gzctf:less13
+docker pull nudttan91/sqli_labs_gzctf:less14
+docker pull nudttan91/sqli_labs_gzctf:less15
+docker pull nudttan91/sqli_labs_gzctf:less16
+docker pull nudttan91/sqli_labs_gzctf:less17
+docker pull nudttan91/sqli_labs_gzctf:less18
+docker pull nudttan91/sqli_labs_gzctf:less19
+docker pull nudttan91/sqli_labs_gzctf:less20
+docker pull nudttan91/sqli_labs_gzctf:less21
+docker pull nudttan91/sqli_labs_gzctf:less22
+docker pull nudttan91/sqli_labs_gzctf:less23
+docker pull nudttan91/sqli_labs_gzctf:less24
+docker pull nudttan91/sqli_labs_gzctf:less25
+docker pull nudttan91/sqli_labs_gzctf:less25a
+docker pull nudttan91/sqli_labs_gzctf:less26
+docker pull nudttan91/sqli_labs_gzctf:less26a
+docker pull nudttan91/sqli_labs_gzctf:less27
+docker pull nudttan91/sqli_labs_gzctf:less27a
+docker pull nudttan91/sqli_labs_gzctf:less28
+docker pull nudttan91/sqli_labs_gzctf:less28a
+docker pull nudttan91/sqli_labs_gzctf:less29
+docker pull nudttan91/sqli_labs_gzctf:less30
+docker pull nudttan91/sqli_labs_gzctf:less31
+docker pull nudttan91/sqli_labs_gzctf:less32
+docker pull nudttan91/sqli_labs_gzctf:less33
+docker pull nudttan91/sqli_labs_gzctf:less34
+docker pull nudttan91/sqli_labs_gzctf:less35
+docker pull nudttan91/sqli_labs_gzctf:less36
+docker pull nudttan91/sqli_labs_gzctf:less37
+docker pull nudttan91/sqli_labs_gzctf:less38
+docker pull nudttan91/sqli_labs_gzctf:less39
+docker pull nudttan91/sqli_labs_gzctf:less40
+docker pull nudttan91/sqli_labs_gzctf:less41
+docker pull nudttan91/sqli_labs_gzctf:less42
+docker pull nudttan91/sqli_labs_gzctf:less43
+docker pull nudttan91/sqli_labs_gzctf:less44
+docker pull nudttan91/sqli_labs_gzctf:less45
+docker pull nudttan91/sqli_labs_gzctf:less46
+docker pull nudttan91/sqli_labs_gzctf:less47
+docker pull nudttan91/sqli_labs_gzctf:less48
+docker pull nudttan91/sqli_labs_gzctf:less49
+docker pull nudttan91/sqli_labs_gzctf:less50
+docker pull nudttan91/sqli_labs_gzctf:less51
+docker pull nudttan91/sqli_labs_gzctf:less52
+docker pull nudttan91/sqli_labs_gzctf:less53
+docker pull nudttan91/sqli_labs_gzctf:less54
+docker pull nudttan91/sqli_labs_gzctf:less55
+docker pull nudttan91/sqli_labs_gzctf:less56
+docker pull nudttan91/sqli_labs_gzctf:less57
+docker pull nudttan91/sqli_labs_gzctf:less58
+docker pull nudttan91/sqli_labs_gzctf:less59
+docker pull nudttan91/sqli_labs_gzctf:less60
+docker pull nudttan91/sqli_labs_gzctf:less61
+docker pull nudttan91/sqli_labs_gzctf:less62
+docker pull nudttan91/sqli_labs_gzctf:less63
+docker pull nudttan91/sqli_labs_gzctf:less64
+docker pull nudttan91/sqli_labs_gzctf:less65
+```
+
+## upload-labs 系列
+
+```bash
 ```
 
