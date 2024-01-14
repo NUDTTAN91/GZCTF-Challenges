@@ -6,7 +6,19 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-NUDTTAN91-blue?style=flat&logo=github)](https://github.com/NUDTTAN91) [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-NUDTTAN91-blue?style=flat&logo=docker)](https://hub.docker.com/u/nudttan91) 
 
-<img src="https://img.shields.io/badge/version-2024.01.13-red" align="left"></br>
+<img src="https://img.shields.io/badge/version-2024.01.14-red" align="left"></br>
+
+
+
+---
+
+
+
+> [!IMPORTANT]
+>
+> 新增`sqli-labs`系列
+>
+> 新增`upload-labs`系列
 
 
 
@@ -121,7 +133,7 @@ docker pull nudttan91/gzctf_westerns_2018_shrine
 docker pull nudttan91/gzctf_xdctf_2015_filemanager
 ```
 
-## sqli-labs 系列
+## ✅sqli-labs 系列
 
 ```bash
 docker pull nudttan91/sqli_labs_gzctf:less01
@@ -195,8 +207,29 @@ docker pull nudttan91/sqli_labs_gzctf:less64
 docker pull nudttan91/sqli_labs_gzctf:less65
 ```
 
-## upload-labs 系列
+## ✅upload-labs 系列
 
 ```bash
+docker pull nudttan91/upload_labs_gzctf:pass01
+docker pull nudttan91/upload_labs_gzctf:pass02
+docker pull nudttan91/upload_labs_gzctf:pass03
+docker pull nudttan91/upload_labs_gzctf:pass04
+docker pull nudttan91/upload_labs_gzctf:pass05
+docker pull nudttan91/upload_labs_gzctf:pass06
+docker pull nudttan91/upload_labs_gzctf:pass07
+docker pull nudttan91/upload_labs_gzctf:pass08
+docker pull nudttan91/upload_labs_gzctf:pass09
+docker pull nudttan91/upload_labs_gzctf:pass10
+docker pull nudttan91/upload_labs_gzctf:pass11
+docker pull nudttan91/upload_labs_gzctf:pass12
+docker pull nudttan91/upload_labs_gzctf:pass13
+docker pull nudttan91/upload_labs_gzctf:pass14
+docker pull nudttan91/upload_labs_gzctf:pass15
+docker pull nudttan91/upload_labs_gzctf:pass16
+docker pull nudttan91/upload_labs_gzctf:pass17
+docker pull nudttan91/upload_labs_gzctf:pass18
+docker pull nudttan91/upload_labs_gzctf:pass19
+docker pull nudttan91/upload_labs_gzctf:pass20
+docker pull nudttan91/upload_labs_gzctf:pass21
 ```
 
