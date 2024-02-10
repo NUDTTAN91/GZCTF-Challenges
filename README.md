@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-NUDTTAN91-blue?style=flat&logo=github)](https://github.com/NUDTTAN91) [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-NUDTTAN91-blue?style=flat&logo=docker)](https://hub.docker.com/u/nudttan91) 
 
-<img src="https://img.shields.io/badge/version-2024.01.14-red" align="left"></br>
+<img src="https://img.shields.io/badge/version-2024.02.11-red" align="left"></br>
 
 
 
@@ -15,6 +15,8 @@
 
 
 > [!IMPORTANT]
+>
+> `2024-02-11`新增`BeginCTF 2024`Web方向`zupload`系列
 >
 > 新增`sqli-labs`系列
 >
@@ -233,3 +235,15 @@ docker pull nudttan91/upload_labs_gzctf:pass20
 docker pull nudttan91/upload_labs_gzctf:pass21
 ```
 
+## ✅BeginCTF 2024 系列
+
+```bash
+docker pull nudttan91/begin_2024_zupload:gzctf
+docker pull nudttan91/begin_2024_zupload-pro:gzctf
+docker pull nudttan91/begin_2024_zupload-pro-plus:gzctf
+docker pull nudttan91/begin_2024_zupload-pro-plus-enhanced:gzctf
+docker pull nudttan91/begin_2024_zupload-pro-plus-max:gzctf
+docker pull nudttan91/begin_2024_zupload-pro-plus-max-ultra:gzctf
+docker pull nudttan91/begin_2024_zupload-pro-plus-max-ultra-premium:ctf
+docker pull nudttan91/begin_2024_zupload-pro-revenge:ctf
+```
