@@ -244,6 +244,6 @@ docker pull nudttan91/begin_2024_zupload-pro-plus:gzctf
 docker pull nudttan91/begin_2024_zupload-pro-plus-enhanced:gzctf
 docker pull nudttan91/begin_2024_zupload-pro-plus-max:gzctf
 docker pull nudttan91/begin_2024_zupload-pro-plus-max-ultra:gzctf
-docker pull nudttan91/begin_2024_zupload-pro-plus-max-ultra-premium:ctf
-docker pull nudttan91/begin_2024_zupload-pro-revenge:ctf
+docker pull nudttan91/begin_2024_zupload-pro-plus-max-ultra-premium:gzctf
+docker pull nudttan91/begin_2024_zupload-pro-revenge:gzctf
 ```
