@@ -16,6 +16,8 @@
 
 > [!IMPORTANT]
 >
+> `2024-02-12`新增`BeginCTF 2024`Web方向`POPgadget`
+>
 > `2024-02-11`新增`BeginCTF 2024`Web方向`zupload`系列以及`SQL 注入教学局`
 >
 > 新增`sqli-labs`系列
@@ -135,6 +137,21 @@ docker pull nudttan91/gzctf_westerns_2018_shrine
 docker pull nudttan91/gzctf_xdctf_2015_filemanager
 ```
 
+## ✅BeginCTF 2024 系列
+
+```bash
+docker pull nudttan91/begin_2024_popgadget:gzctf
+docker pull nudttan91/begin_2024_sqlteachingbureau:gzctf
+docker pull nudttan91/begin_2024_zupload:gzctf
+docker pull nudttan91/begin_2024_zupload-pro:gzctf
+docker pull nudttan91/begin_2024_zupload-pro-plus:gzctf
+docker pull nudttan91/begin_2024_zupload-pro-plus-enhanced:gzctf
+docker pull nudttan91/begin_2024_zupload-pro-plus-max:gzctf
+docker pull nudttan91/begin_2024_zupload-pro-plus-max-ultra:gzctf
+docker pull nudttan91/begin_2024_zupload-pro-plus-max-ultra-premium:gzctf
+docker pull nudttan91/begin_2024_zupload-pro-revenge:gzctf
+```
+
 ## ✅sqli-labs 系列
 
 ```bash
@@ -235,16 +252,3 @@ docker pull nudttan91/upload_labs_gzctf:pass20
 docker pull nudttan91/upload_labs_gzctf:pass21
 ```
 
-## ✅BeginCTF 2024 系列
-
-```bash
-docker pull nudttan91/begin_2024_sqlteachingbureau:gzctf
-docker pull nudttan91/begin_2024_zupload:gzctf
-docker pull nudttan91/begin_2024_zupload-pro:gzctf
-docker pull nudttan91/begin_2024_zupload-pro-plus:gzctf
-docker pull nudttan91/begin_2024_zupload-pro-plus-enhanced:gzctf
-docker pull nudttan91/begin_2024_zupload-pro-plus-max:gzctf
-docker pull nudttan91/begin_2024_zupload-pro-plus-max-ultra:gzctf
-docker pull nudttan91/begin_2024_zupload-pro-plus-max-ultra-premium:gzctf
-docker pull nudttan91/begin_2024_zupload-pro-revenge:gzctf
-```
