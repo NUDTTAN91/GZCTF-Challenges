@@ -16,6 +16,8 @@
 
 > [!IMPORTANT]
 >
+> `2024-02-17`新增`SICTFRound3 2024`Web方向`100%upload`
+>
 > `2024-02-12`新增`BeginCTF 2024`Web方向`POPgadget`
 >
 > `2024-02-11`新增`BeginCTF 2024`Web方向`zupload`系列以及`SQL 注入教学局`
@@ -99,6 +101,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 我已经将项目打包为Docker镜像，你可以使用以下命令来获取.
 
 I have packaged the project into a Docker image, which you can obtain using the following command.
+
+## ✅SICTFRound3 2024
+
+```bash
+docker pull nudttan91/sictf_round3_2024_100_upload:gzctf
+```
+
+
 
 ## ✅CTFtraining 系列
 
