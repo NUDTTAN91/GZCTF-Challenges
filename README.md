@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-NUDTTAN91-blue?style=flat&logo=github)](https://github.com/NUDTTAN91) [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-NUDTTAN91-blue?style=flat&logo=docker)](https://hub.docker.com/u/nudttan91) 
 
-<img src="https://img.shields.io/badge/version-2024.02.11-red" align="left"></br>
+<img src="https://img.shields.io/badge/version-2024.02.20-red" align="left"></br>
 
 
 
@@ -15,6 +15,8 @@
 
 
 > [!IMPORTANT]
+>
+> `2024-02-20`新增`md5bypass`
 >
 > `2024-02-17`新增`SICTFRound3 2024`Web方向`100%upload`
 >
