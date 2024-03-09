@@ -16,7 +16,7 @@
 
 > [!IMPORTANT]
 >
-> 
+> `2024-03-04`新增打砖块签到
 >
 > `2024-02-20`新增`md5bypass`
 >
@@ -105,6 +105,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 我已经将项目打包为Docker镜像，你可以使用以下命令来获取.
 
 I have packaged the project into a Docker image, which you can obtain using the following command.
+
+## ✅签到
+
+```bash
+docker pull nudttan91/arkanoid:gzctf
+```
+
+
 
 ## ✅SICTFRound3 2024
 
