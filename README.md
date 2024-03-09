@@ -1,12 +1,16 @@
-<center><font size=7><b>GZCTF-Challenges</b></font></center>
+# GZCTF-Challenges
 
 ---
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-NUDTTAN91-blue?style=flat&logo=github)](https://github.com/NUDTTAN91) [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-NUDTTAN91-blue?style=flat&logo=docker)](https://hub.docker.com/u/nudttan91) 
+<div align="center">
+    <a href="https://github.com/NUDTTAN91"><img src="https://img.shields.io/badge/GitHub-NUDTTAN91-blue?style=flat&logo=github" /></a>&emsp;
+    <a href="https://hub.docker.com/u/nudttan91"><img src="https://img.shields.io/badge/Docker%20Hub-NUDTTAN91-blue?style=flat&logo=docker" /></a>&emsp;
+    <a href="https://github.com/NUDTTAN91/GZCTF-Challenges"><img src="https://img.shields.io/github/stars/NUDTTAN91/GZCTF-Challenges.svg?logo=github"></a>&emsp;
+    <a href="https://github.com/NUDTTAN91/GZCTF-Challenges"><img src="https://img.shields.io/badge/version-2024.03.10-red" /></a>
+</div>
 
-<img src="https://img.shields.io/badge/version-2024.02.20-red" align="left"></br>
 
 
 
