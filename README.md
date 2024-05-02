@@ -110,6 +110,23 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 I have packaged the project into a Docker image, which you can obtain using the following command.
 
+## ✅3HCTF
+```bash
+docker pull nudttan91/3hctf_2024_mazegame
+docker pull nudttan91/3hctf_2024_whatserver
+docker pull nudttan91/3hctf_2024_httprequest1
+docker pull nudttan91/3hctf_2024_httprequest2
+docker pull nudttan91/3hctf_2024_httprequest3
+docker pull nudttan91/3hctf_2024_httprequest4
+docker pull nudttan91/3hctf_2024_httprequest5
+docker pull nudttan91/3hctf_2024_httprequest6
+docker pull nudttan91/3hctf_2024_databreachquest
+docker pull nudttan91/3hctf_2024_phpall
+docker pull nudttan91/3hctf_2024_ezphp
+```
+
+
+
 ## ✅签到
 
 ```bash
