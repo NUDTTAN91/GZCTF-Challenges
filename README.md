@@ -110,6 +110,17 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 I have packaged the project into a Docker image, which you can obtain using the following command.
 
+
+
+## ✅签到
+
+```bash
+docker pull nudttan91/arkanoid:gzctf
+docker pull nudttan91/dynamicglobesignin
+```
+
+
+
 ## ✅3HCTF
 ```bash
 docker pull nudttan91/3hctf_2024_mazegame
@@ -123,14 +134,6 @@ docker pull nudttan91/3hctf_2024_httprequest6
 docker pull nudttan91/3hctf_2024_databreachquest
 docker pull nudttan91/3hctf_2024_phpall
 docker pull nudttan91/3hctf_2024_ezphp
-```
-
-
-
-## ✅签到
-
-```bash
-docker pull nudttan91/arkanoid:gzctf
 ```
 
 
